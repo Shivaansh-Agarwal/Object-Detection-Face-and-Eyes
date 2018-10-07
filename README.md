@@ -8,3 +8,4 @@ Link for getting the Haarcascades
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 
 https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html#cascadeclassifier-detectmultiscale
+
