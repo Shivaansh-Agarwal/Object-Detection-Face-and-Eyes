@@ -46,9 +46,6 @@ while True:
         break
     #This statement just runs once per frame.
     #Basically, if we get a key, and that key is a q, we will exit the while loop with a break, which then runs:
-    #k = cv2.waitKey(30) & 0xff
-    #if k==27:
-    #    break
 
 video.release()
 cv2.destroyAllWindows()
