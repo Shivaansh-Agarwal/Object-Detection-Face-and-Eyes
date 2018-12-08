@@ -1,5 +1,6 @@
-# OpenCV Object Detection : Face and Eyes
+My first implementation of Object Detection using Python and OpenCV.
 
+# OpenCV Object Detection : Face and Eyes
 
 For Using Syntax and Learning about openCV the following link is helpful
 https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
